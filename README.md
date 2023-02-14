@@ -1,1 +1,1 @@
-# class-130
+# PRO-C130-Teacher-Boilerplate
